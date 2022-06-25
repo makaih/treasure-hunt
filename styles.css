@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    text-align: center;
+
+
+}
+
+.img1 {
+    height: 300px;
+    width: 270px;
+}
+
+.img2 {
+    height: 300px;
+    width: 270px;
+
+}
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+}
+
